@@ -44,10 +44,10 @@ export default function Home() {
           />
 
           <ExampleComponent 
-            href={"https://nextjs.org/examples"} 
+            href={"/api-calls/api-calls"} 
             className={styles.card} 
-            title={"Examples"}
-            description={"Discover and deploy boilerplate example Next.js projects."}
+            title={"API Example"}
+            description={"See examples of API calls and responses"}
           />
 
           <ExampleComponent 
